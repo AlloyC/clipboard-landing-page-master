@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [()]
+- Solution URL: [(https://www.frontendmentor.io/solutions/clipboard-landing-age-master-wsiIXds-yV)]
 34
 - Live Site URL: [(https://alloyc.github.io/clipboard-landing-page-master/)]
 35
