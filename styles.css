@@ -183,6 +183,11 @@ a{
     grid-template-rows: repeat(6, auto);
     text-align: center;
     justify-content: center;
+    padding-top: 40px;
+}
+
+.footer-logo{
+    justify-self: center;
 }
 
 .link{
@@ -303,6 +308,7 @@ a{
         text-align: left;
         grid-template-columns: repeat(3, 25%);
         grid-template-rows: repeat(2, auto);
+        padding-top: 0;
     }
     .icons{
         display: flex;
